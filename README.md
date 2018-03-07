@@ -1,2 +1,2 @@
-# documents
-Monthly meetings and other documents
+# Mozilla TechSpeakers notes & documents
+Monthly meetings, tech briefings and other documents
